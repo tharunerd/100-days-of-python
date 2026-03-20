@@ -1,4 +1,4 @@
-# Day 2 - Data Types, Type Conversion & Basic Math 🧮
+# Day 2 -Tip Calculator-  Data Types, Type Conversion & Basic Math 🧮
 
 ## 📌 Topics Covered
 
