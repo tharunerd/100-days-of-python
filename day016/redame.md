@@ -233,10 +233,6 @@ if __name__ == "__main__":
      ┣ 📄 coffee_maker.py
      ┣ 📄 money_machine.py
      ┣ 📄 README.md
-     ┣ 📁 tests
-     ┃ ┣ test_menu.py
-     ┃ ┣ test_coffee_maker.py
-     ┃ ┗ test_money_machine.py
      ┗ 📁 assets     # optional ASCII art, logos
 
 ***
