@@ -1,9 +1,3 @@
-Awesome—let’s make a **Day 16 (OOP) Coffee Machine Simulator** README that matches the tone and structure of your earlier days, but now emphasizes **Object-Oriented Programming** (classes, objects, composition, responsibilities).
-
-This is fully original and safe to publish on your GitHub.
-
-***
-
 # Day 16: Coffee Machine (OOP)
 
 *100 Days of Code (Python Bootcamp Inspired by Dr. Angela Yu)*
@@ -239,10 +233,6 @@ if __name__ == "__main__":
      ┣ 📄 coffee_maker.py
      ┣ 📄 money_machine.py
      ┣ 📄 README.md
-     ┣ 📁 tests
-     ┃ ┣ test_menu.py
-     ┃ ┣ test_coffee_maker.py
-     ┃ ┗ test_money_machine.py
      ┗ 📁 assets     # optional ASCII art, logos
 
 ***
