@@ -1,0 +1,8 @@
+day,temp,condition,temp_F,is_warm
+Monday,12,Sunny,53.6,False
+Tuesday,14,Rain,57.2,False
+Wednesday,15,Rain,59.0,False
+Thursday,14,Cloudy,57.2,False
+Friday,21,Sunny,69.8,True
+Saturday,22,Sunny,71.6,True
+Sunday,24,Sunny,75.2,True
