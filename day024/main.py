@@ -2,9 +2,9 @@ import os
 
 PLACEHOLDER = "[name]"
 
-names_path = r"day_24\Input\Names\invited_names.txt"
-letter_path = r"day_24\Input\Letters\starting_letter.txt"
-output_dir = r"day_24\Output"
+names_path = r"day024\Input\Names\invited_names.txt"
+letter_path = r"day024\Input\Letters\starting_letter.txt"
+output_dir = r"day024\Output"
 
 os.makedirs(output_dir, exist_ok=True)
 
