@@ -1,20 +1,20 @@
 # 🐍 100 Days of Python — My Coding Journey
 
-Welcome to my personal journey through the **100 Days of Code – Python Bootcamp** by Dr. Angela Yu!  
-This repository showcases **every hands‑on Python project** I’ve built as I progressed from beginner to intermediate Python programming.
+Welcome to my personal journey through the **100 Days of Code: Python Bootcamp** by Dr. Angela Yu.  
+This repository contains **every project I’ve built**, documenting my progress from absolute beginner to confident intermediate Python developer.
 
-Whether you're a fellow learner, recruiter, or developer exploring my work — **thank you for stopping by!**
+Whether you're a fellow learner, recruiter, or developer exploring my work — **thanks for visiting!**
 
 🎓 **Course Link:**  
 👉 <https://www.udemy.com/course/100-days-of-code/>
 
 ***
 
-# 🚀 How to Run Any Project
+# 🚀 Running Any Project
 
 ### 1️⃣ Install Python
 
-Make sure you have **Python 3.10+** installed.
+Ensure you have **Python 3.10+** installed.
 
 ### 2️⃣ Clone the Repository
 
@@ -28,7 +28,7 @@ git clone https://github.com/tharunerd/100-days-of-python.git
 cd 100-days-of-python/day030-password-manager
 ```
 
-### 4️⃣ Run the Project
+### 4️⃣ Run the Script
 
 ```bash
 python main.py
@@ -38,101 +38,134 @@ python main.py
 
 # 📚 Project Index (Day-by-Day)
 
-Below is a growing list of all the projects I’ve completed.  
-I’ll update this continuously as the journey progresses!
+Below is the list of projects I’ve completed so far.  
+This section will keep growing as the journey continues!
 
 ***
 
-## 🔰 **Beginner Section (Days 1–14)**
+## 🔰 **Beginner (Days 1–14)**
 
 ### **Day 1 – Band Name Generator**
 
-🎵 Learn basic **string manipulation** and build a fun tool that creates a band name using user input.
+🎵 Basic string manipulation + user input = fun band names.
 
 ### **Day 2 – Tip Calculator**
 
-🧮 Work with **mathematical operators**, conversions, and formatted output to split bills easily.
+🧮 Simple arithmetic and formatted outputs to split bills.
 
 ### **Day 3 – Treasure Island**
 
-🏝️ Build your first **text-based adventure game** using `if/elif/else` conditions.
+🏝️ Text-based adventure game using conditionals.
 
 ### **Day 4 – Rock–Paper–Scissors**
 
-✊✋✌️ Use **lists** and randomization to create the classic game.
+✊✋✌️ Lists + randomness to build the classic game.
 
 ### **Day 5 – Password Generator**
 
-🔐 Practice **loops**, lists, and randomization to generate secure passwords.
+🔐 Loops + randomization = secure password creation.
 
-### **Day 6 – Reeborg’s Maze Solution**
+### **Day 6 – Reeborg’s Maze**
 
-🤖 Learn **functions**, loops, and logic by solving a robot maze challenge.
+🤖 Functions, loops, and logic to solve maze challenges.
 
 ### **Day 7 – Hangman (Part 1)**
 
-🎯 Build the core logic of Hangman using lists and iteration.
+🎯 Implementing the core logic for Hangman.
 
 ### **Day 8 – Caesar Cipher**
 
-🔏 Implement a text‑shifting encryption system using functions.
+🔏 Encoding and decoding text using functions.
 
-### **Day 9 – Blind Auction Program**
+### **Day 9 – Blind Auction**
 
-💰 Use dictionaries and loops to create a silent bidding system.
+💰 Dictionaries + loops for a silent bidding system.
 
 ### **Day 10 – Calculator**
 
-🧮 Build a function‑based calculator with reusable operations.
+🧮 Function‑based calculator with reusable operations.
 
-### **Day 11 – Blackjack Game**
+### **Day 11 – Blackjack**
 
-🃏 Implement card dealing, scoring, and game flow logic.
+🃏 Card dealing, scoring, and game logic.
 
 ### **Day 12 – Number Guessing Game**
 
-🔢 Build an interactive guessing game with difficulty levels.
+🔢 Difficulty levels + logic to guess a hidden number.
 
-### **Day 13 – Debugging Exercises**
+### **Day 13 – Debugging**
 
-🐞 Learn how to identify and fix common Python bugs.
+🐞 Fixing common Python bugs.
 
 ### **Day 14 – Higher–Lower Game**
 
-📊 Build a follower comparison game using loops, functions, and data handling.
+📊 A follower‑comparison game using loops & functions.
 
 ***
 
 ## 🧩 **Intermediate (Days 15+)**
 
-### **Day 15 – Coffee Machine Program (Procedural)**
+### **Day 15 – Coffee Machine (Procedural)**
 
-☕ Build a menu-driven machine that checks resources, processes coins, and “makes” coffee.
+☕ Menu-driven app that checks resources and processes coins.
 
-### **Day 16 – Coffee Machine (OOP Version)**
+### **Day 16 – Coffee Machine (OOP)**
 
-🧱 Use **classes**, **objects**, and **composition** to redesign the machine the OOP way.
+🧱 Applying classes, objects, and composition.
 
 ### **Day 17 – True/False Quiz (OOP)**
 
-❓ Create a quiz engine using custom `Question` and `QuizBrain` classes.
+❓ Quiz engine powered by custom `Question` and `QuizBrain` classes.
 
-### *(More will be added as I progress…)*
+### **Day 18 – Turtle Graphics (Intro)**
+
+🎨 Building shapes and patterns using Python’s Turtle module.
+
+### **Day 19 – Turtle Racing Game**
+
+🐢 Multicolored racing turtles with random behavior.
+
+### **Day 20 – Snake Game (Classic Nokia Style)**
+
+🐍 Implemented using turtle graphics + game loops.
+
+### **Day 21 – Snake Game Upgrade**
+
+📈 Added scoreboard + improved mechanics.
+
+### **Day 22 – Pong Game**
+
+🏓 A two-player pong clone using Python turtle.
+
+### **Day 23 – Turtle Road Crossing Game**
+
+🚗 “Frogger"-style game using classes and collision detection.
+
+### **Day 24 – Automated Birthday Invitations**
+
+✉️ File handling + template rendering.
+
+### **Day 25 – Pandas Introduction**
+
+🐼 Squirrel census analysis, U.S. states guessing game, and weather data exploration.
+
+### *(More projects will be added as I continue!)*
 
 ***
 
 # 🌟 Why This Repository Exists
 
-This repo serves as:
+This repo is my way of:
 
-*   📂 My portfolio of growing Python skills
-*   📘 A reference for beginners following the same course
-*   💡 A motivational tracker for myself
-*   🤝 A space for developers to collaborate or share feedback
+*   📂 Showcasing my Python learning journey
+*   📘 Helping beginners follow along
+*   💡 Tracking my progress toward mastery
+*   🤝 Inviting collaboration and feedback
 
 ***
 
 # 💬 Want to Connect?
 
-If you’d like to discuss Python, collaborate, or just say hi — feel free to reach out!
+If you’d like to talk Python, collaborate, or just say hello — feel free to reach out!
 
+***
