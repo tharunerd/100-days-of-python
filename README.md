@@ -1,34 +1,32 @@
 # 🐍 100 Days of Python — My Coding Journey
 
-Welcome to my personal journey through the **100 Days of Code: Python Bootcamp** by Dr. Angela Yu.  
-This repository contains **every project I’ve built**, documenting my progress from absolute beginner to confident intermediate Python developer.
+Welcome to my journey through the **100 Days of Code: Python Bootcamp** by **Dr. Angela Yu**.  
+This repository documents **every project I’ve built**, showing my growth from a beginner to a confident intermediate Python developer.
 
-Whether you're a fellow learner, recruiter, or developer exploring my work — **thanks for visiting!**
+Whether you're a **learner**, **recruiter**, or **developer** exploring my work — thanks for stopping by! 🙌
 
-🎓 **Course Link:**  
-👉 <https://www.udemy.com/course/100-days-of-code/>
+🎓 **Course Link**  
+👉 https://www.udemy.com/course/100-days-of-code/
 
-***
+---
 
-# 🚀 Running Any Project
+## 🚀 How to Run Any Project
 
 ### 1️⃣ Install Python
-
-Ensure you have **Python 3.10+** installed.
+Make sure **Python 3.10+** is installed on your system.
 
 ### 2️⃣ Clone the Repository
-
 ```bash
 git clone https://github.com/tharunerd/100-days-of-python.git
-```
+````
 
-### 3️⃣ Open Any Day’s Project
+### 3️⃣ Navigate to a Project
 
 ```bash
 cd 100-days-of-python/day030-password-manager
 ```
 
-### 4️⃣ Run the Script
+### 4️⃣ Run the Program
 
 ```bash
 python main.py
@@ -36,136 +34,74 @@ python main.py
 
 ***
 
-# 📚 Project Index (Day-by-Day)
+## 📚 Project Index (Day‑by‑Day)
 
-Below is the list of projects I’ve completed so far.  
-This section will keep growing as the journey continues!
-
-***
-
-## 🔰 **Beginner (Days 1–14)**
-
-### **Day 1 – Band Name Generator**
-
-🎵 Basic string manipulation + user input = fun band names.
-
-### **Day 2 – Tip Calculator**
-
-🧮 Simple arithmetic and formatted outputs to split bills.
-
-### **Day 3 – Treasure Island**
-
-🏝️ Text-based adventure game using conditionals.
-
-### **Day 4 – Rock–Paper–Scissors**
-
-✊✋✌️ Lists + randomness to build the classic game.
-
-### **Day 5 – Password Generator**
-
-🔐 Loops + randomization = secure password creation.
-
-### **Day 6 – Reeborg’s Maze**
-
-🤖 Functions, loops, and logic to solve maze challenges.
-
-### **Day 7 – Hangman (Part 1)**
-
-🎯 Implementing the core logic for Hangman.
-
-### **Day 8 – Caesar Cipher**
-
-🔏 Encoding and decoding text using functions.
-
-### **Day 9 – Blind Auction**
-
-💰 Dictionaries + loops for a silent bidding system.
-
-### **Day 10 – Calculator**
-
-🧮 Function‑based calculator with reusable operations.
-
-### **Day 11 – Blackjack**
-
-🃏 Card dealing, scoring, and game logic.
-
-### **Day 12 – Number Guessing Game**
-
-🔢 Difficulty levels + logic to guess a hidden number.
-
-### **Day 13 – Debugging**
-
-🐞 Fixing common Python bugs.
-
-### **Day 14 – Higher–Lower Game**
-
-📊 A follower‑comparison game using loops & functions.
+This section grows as I continue the challenge 🚀
 
 ***
 
-## 🧩 **Intermediate (Days 15+)**
+## 🔰 Beginner Projects (Days 1–14)
 
-### **Day 15 – Coffee Machine (Procedural)**
-
-☕ Menu-driven app that checks resources and processes coins.
-
-### **Day 16 – Coffee Machine (OOP)**
-
-🧱 Applying classes, objects, and composition.
-
-### **Day 17 – True/False Quiz (OOP)**
-
-❓ Quiz engine powered by custom `Question` and `QuizBrain` classes.
-
-### **Day 18 – Turtle Graphics (Intro)**
-
-🎨 Building shapes and patterns using Python’s Turtle module.
-
-### **Day 19 – Turtle Racing Game**
-
-🐢 Multicolored racing turtles with random behavior.
-
-### **Day 20 – Snake Game (Classic Nokia Style)**
-
-🐍 Implemented using turtle graphics + game loops.
-
-### **Day 21 – Snake Game Upgrade**
-
-📈 Added scoreboard + improved mechanics.
-
-### **Day 22 – Pong Game**
-
-🏓 A two-player pong clone using Python turtle.
-
-### **Day 23 – Turtle Road Crossing Game**
-
-🚗 “Frogger"-style game using classes and collision detection.
-
-### **Day 24 – Automated Birthday Invitations**
-
-✉️ File handling + template rendering.
-
-### **Day 25 – Pandas Introduction**
-
-🐼 Squirrel census analysis, U.S. states guessing game, and weather data exploration.
-
-### *(More projects will be added as I continue!)*
+| Day | Project              | Description                         |
+| --: | -------------------- | ------------------------------------|
+|   1 | Band Name Generator  | 🎵 String manipulation & user input |
+|   2 | Tip Calculator       | 🧮 Bill splitting using arithmetic  |
+|   3 | Treasure Island      | 🏝️ Text‑based adventure game        |
+|   4 | Rock–Paper–Scissors  | ✊✋✌️ Lists + randomness          |
+|   5 | Password Generator   | 🔐 Randomized secure passwords      |
+|   6 | Reeborg’s Maze       | 🤖 Logic, loops, and functions      |
+|   7 | Hangman              | 🎯 Core game mechanics              |
+|   8 | Caesar Cipher        | 🔏 Encode & decode messages         |
+|   9 | Blind Auction        | 💰 Dictionary‑based bidding         |
+|  10 | Calculator           | 🧮 Function‑driven calculator       |
+|  11 | Blackjack            | 🃏 Card game logic                  |
+|  12 | Number Guessing Game | 🔢 Difficulty‑based guessing        |
+|  13 | Debugging            | 🐞 Finding & fixing bugs            |
+|  14 | Higher‑Lower Game    | 📊 Follower comparison game         |
 
 ***
 
-# 🌟 Why This Repository Exists
+## 🧩 Intermediate Projects (Days 15+)
 
-This repo is my way of:
+| Day | Project                     | Highlights                   |
+| --: | --------------------------- | ---------------------------- |
+|  15 | Coffee Machine (Procedural) | ☕ Resource & coin management |
+|  16 | Coffee Machine (OOP)        | 🧱 Classes & objects         |
+|  17 | True/False Quiz (OOP)       | ❓ Custom quiz engine         |
+|  18 | Turtle Graphics             | 🎨 Shapes & patterns         |
+|  19 | Turtle Racing Game          | 🐢 Randomized turtle race    |
+|  20 | Snake Game                  | 🐍 Classic Nokia snake       |
+|  21 | Snake Game (Enhanced)       | 📈 Scoreboard & polish       |
+|  22 | Pong Game                   | 🏓 Two‑player arcade game    |
+|  23 | Turtle Road Crossing        | 🚗 Frogger‑style gameplay    |
+|  24 | Automated Birthday Wisher   | 🎂 File handling & templates |
+|  25 | Pandas Projects             | 🐼 Data analysis & games     |
+|  26 | NATO Alphabet Generator     | 📖 Comprehensions            |
+|  27 | Tkinter GUI Basics          | 🖥️ \*args, \*\*kwargs       |
+|  28 | Pomodoro Timer              | ⏱️ Productivity app          |
+|  29 | Password Manager (I)        | 🔐 Tkinter + file storage    |
+|  30 | Password Manager (II)       | 🔐 Search & validation       |
+|  31 | Flash Card App              | 🇫🇷 French → English        |
+|  32 | Automated Birthday Wisher   | 📧 Email automation          |
+|  33 | Kanye REST Quotes App       | 🎤 API + Tkinter             |
 
-*   📂 Showcasing my Python learning journey
-*   📘 Helping beginners follow along
-*   💡 Tracking my progress toward mastery
-*   🤝 Inviting collaboration and feedback
+> ✅ *More projects will be added as the journey continues…*
 
 ***
 
-# 💬 Want to Connect?
+## 🌟 Why This Repository Exists
 
-If you’d like to talk Python, collaborate, or just say hello — feel free to reach out!
+This repository helps me:
+
+*   📂 Showcase my Python learning journey
+*   📘 Help beginners follow along
+*   💡 Track my consistency and progress
+*   🤝 Invite feedback and collaboration
 
 ***
+
+## 💬 Let’s Connect
+
+If you’d like to talk Python, collaborate, or share feedback — feel free to reach out!
+
+Happy coding! 🚀🐍
