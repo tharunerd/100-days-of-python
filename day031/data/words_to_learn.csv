@@ -1,4 +1,5 @@
 French,English
+<<<<<<< HEAD
 partie,part
 chercher,search
 seulement,only
@@ -10,10 +11,19 @@ mois,month
 frère,brother
 laisser,let
 car,because
+=======
+seulement,only
+pensais,thought
+demande,request
+genre,kind
+frère,brother
+laisser,let
+>>>>>>> 3538a6b (Flash Card App (French → English))
 aucun,no
 laisse,leash
 eux,them
 ville,city
+<<<<<<< HEAD
 chaque,each
 parlé,speak
 arrivé,come
@@ -21,12 +31,18 @@ devrait,should
 longtemps,long time
 heures,hours
 vont,will
+=======
+arrivé,come
+devrait,should
+longtemps,long time
+>>>>>>> 3538a6b (Flash Card App (French → English))
 pendant,while
 revoir,meet again
 aucune,any
 place,square
 parle,speak
 compris,understood
+<<<<<<< HEAD
 savais,knew
 étaient,were
 attention,Warning
@@ -85,3 +101,27 @@ plutôt,rather
 filles,girls
 jouer,to play
 bureau,office
+=======
+attention,Warning
+pourrais,could
+affaire,case
+donné,given
+train,train
+endroit,place
+trouve,find
+perdu,lost
+vieux,old
+matin,morning
+point,point
+suite,after
+pardon,sorry
+venez,come
+vers,towards
+mari,husband
+enfin,finally
+boulot,job
+compte,account
+croire,believe
+filles,girls
+jouer,to play
+>>>>>>> 3538a6b (Flash Card App (French → English))
